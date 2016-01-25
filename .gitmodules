@@ -1,0 +1,3 @@
+[submodule "animscene"]
+	path = animscene
+	url = git@github.com:pile-contributors/animscene.git
